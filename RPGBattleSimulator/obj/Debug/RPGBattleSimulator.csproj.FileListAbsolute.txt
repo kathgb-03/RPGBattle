@@ -1,9 +1,0 @@
-C:\Users\balan\source\repos\RPGBattleSimulator\RPGBattleSimulator\bin\Debug\RPGBattleSimulator.exe.config
-C:\Users\balan\source\repos\RPGBattleSimulator\RPGBattleSimulator\bin\Debug\RPGBattleSimulator.exe
-C:\Users\balan\source\repos\RPGBattleSimulator\RPGBattleSimulator\bin\Debug\RPGBattleSimulator.pdb
-C:\Users\balan\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\RPGBattleSimulator.csproj.AssemblyReference.cache
-C:\Users\balan\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\RPGBattleSimulator.Properties.Resources.resources
-C:\Users\balan\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\RPGBattleSimulator.csproj.GenerateResource.cache
-C:\Users\balan\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\RPGBattleSimulator.csproj.CoreCompileInputs.cache
-C:\Users\balan\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\RPGBattleSimulator.exe
-C:\Users\balan\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\RPGBattleSimulator.pdb
